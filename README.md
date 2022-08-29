@@ -1,1 +1,1 @@
-# elgom-emirates-secondary-school
+# This site is live at https://freshteacher.tech/elgom-emirates-secondary-school
